@@ -1,0 +1,33 @@
+C:\Users\wel\RepoForCureMD\NewPatientProject\NewPatientProject\obj\Debug\net7.0\NewPatientProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\wel\RepoForCureMD\NewPatientProject\NewPatientProject\obj\Debug\net7.0\NewPatientProject.AssemblyInfoInputs.cache
+C:\Users\wel\RepoForCureMD\NewPatientProject\NewPatientProject\obj\Debug\net7.0\NewPatientProject.AssemblyInfo.cs
+C:\Users\wel\RepoForCureMD\NewPatientProject\NewPatientProject\obj\Debug\net7.0\NewPatientProject.csproj.CoreCompileInputs.cache
+C:\Users\wel\RepoForCureMD\NewPatientProject\NewPatientProject\obj\Debug\net7.0\NewPatientProject.sourcelink.json
+F:\ML job folder\NewPatientProject\NewPatientProject\bin\Debug\net7.0\NewPatientProject.exe
+F:\ML job folder\NewPatientProject\NewPatientProject\bin\Debug\net7.0\NewPatientProject.deps.json
+F:\ML job folder\NewPatientProject\NewPatientProject\bin\Debug\net7.0\NewPatientProject.runtimeconfig.json
+F:\ML job folder\NewPatientProject\NewPatientProject\bin\Debug\net7.0\NewPatientProject.dll
+F:\ML job folder\NewPatientProject\NewPatientProject\bin\Debug\net7.0\NewPatientProject.pdb
+F:\ML job folder\NewPatientProject\NewPatientProject\obj\Debug\net7.0\NewPatientProject.GeneratedMSBuildEditorConfig.editorconfig
+F:\ML job folder\NewPatientProject\NewPatientProject\obj\Debug\net7.0\NewPatientProject.AssemblyInfoInputs.cache
+F:\ML job folder\NewPatientProject\NewPatientProject\obj\Debug\net7.0\NewPatientProject.AssemblyInfo.cs
+F:\ML job folder\NewPatientProject\NewPatientProject\obj\Debug\net7.0\NewPatientProject.csproj.CoreCompileInputs.cache
+F:\ML job folder\NewPatientProject\NewPatientProject\obj\Debug\net7.0\NewPatientProject.dll
+F:\ML job folder\NewPatientProject\NewPatientProject\obj\Debug\net7.0\refint\NewPatientProject.dll
+F:\ML job folder\NewPatientProject\NewPatientProject\obj\Debug\net7.0\NewPatientProject.pdb
+F:\ML job folder\NewPatientProject\NewPatientProject\obj\Debug\net7.0\NewPatientProject.genruntimeconfig.cache
+F:\ML job folder\NewPatientProject\NewPatientProject\obj\Debug\net7.0\ref\NewPatientProject.dll
+C:\Users\6609\git__test\Full Project with bugs\NewPatientProject\bin\Debug\net7.0\NewPatientProject.exe
+C:\Users\6609\git__test\Full Project with bugs\NewPatientProject\bin\Debug\net7.0\NewPatientProject.deps.json
+C:\Users\6609\git__test\Full Project with bugs\NewPatientProject\bin\Debug\net7.0\NewPatientProject.runtimeconfig.json
+C:\Users\6609\git__test\Full Project with bugs\NewPatientProject\bin\Debug\net7.0\NewPatientProject.dll
+C:\Users\6609\git__test\Full Project with bugs\NewPatientProject\bin\Debug\net7.0\NewPatientProject.pdb
+C:\Users\6609\git__test\Full Project with bugs\NewPatientProject\obj\Debug\net7.0\NewPatientProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\6609\git__test\Full Project with bugs\NewPatientProject\obj\Debug\net7.0\NewPatientProject.AssemblyInfoInputs.cache
+C:\Users\6609\git__test\Full Project with bugs\NewPatientProject\obj\Debug\net7.0\NewPatientProject.AssemblyInfo.cs
+C:\Users\6609\git__test\Full Project with bugs\NewPatientProject\obj\Debug\net7.0\NewPatientProject.csproj.CoreCompileInputs.cache
+C:\Users\6609\git__test\Full Project with bugs\NewPatientProject\obj\Debug\net7.0\NewPatientProject.dll
+C:\Users\6609\git__test\Full Project with bugs\NewPatientProject\obj\Debug\net7.0\refint\NewPatientProject.dll
+C:\Users\6609\git__test\Full Project with bugs\NewPatientProject\obj\Debug\net7.0\NewPatientProject.pdb
+C:\Users\6609\git__test\Full Project with bugs\NewPatientProject\obj\Debug\net7.0\NewPatientProject.genruntimeconfig.cache
+C:\Users\6609\git__test\Full Project with bugs\NewPatientProject\obj\Debug\net7.0\ref\NewPatientProject.dll
