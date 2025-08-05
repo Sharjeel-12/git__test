@@ -1,38 +1,38 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "F:\\ML job folder\\NewPatientProject\\",
+  "WorkspaceRootPath": "C:\\Users\\wel\\git__test\\patient-visit-manger-solid\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{063266E4-B68A-4F43-A19B-0455F9088482}|NewPatientProject\\NewPatientProject.csproj|f:\\ml job folder\\newpatientproject\\newpatientproject\\services\\filemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{063266E4-B68A-4F43-A19B-0455F9088482}|NewPatientProject\\NewPatientProject.csproj|solutionrelative:newpatientproject\\services\\filemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{063266E4-B68A-4F43-A19B-0455F9088482}|NewPatientProject\\NewPatientProject.csproj|f:\\ml job folder\\newpatientproject\\newpatientproject\\services\\historymanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{063266E4-B68A-4F43-A19B-0455F9088482}|NewPatientProject\\NewPatientProject.csproj|solutionrelative:newpatientproject\\services\\historymanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{063266E4-B68A-4F43-A19B-0455F9088482}|NewPatientProject\\NewPatientProject.csproj|f:\\ml job folder\\newpatientproject\\newpatientproject\\services\\undoredomanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{063266E4-B68A-4F43-A19B-0455F9088482}|NewPatientProject\\NewPatientProject.csproj|solutionrelative:newpatientproject\\services\\undoredomanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{063266E4-B68A-4F43-A19B-0455F9088482}|NewPatientProject\\NewPatientProject.csproj|f:\\ml job folder\\newpatientproject\\newpatientproject\\interfaces\\appinterface.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{063266E4-B68A-4F43-A19B-0455F9088482}|NewPatientProject\\NewPatientProject.csproj|c:\\users\\wel\\git__test\\patient-visit-manger-solid\\newpatientproject\\interfaces\\appinterface.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{063266E4-B68A-4F43-A19B-0455F9088482}|NewPatientProject\\NewPatientProject.csproj|solutionrelative:newpatientproject\\interfaces\\appinterface.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{063266E4-B68A-4F43-A19B-0455F9088482}|NewPatientProject\\NewPatientProject.csproj|f:\\ml job folder\\newpatientproject\\newpatientproject\\models\\patient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{063266E4-B68A-4F43-A19B-0455F9088482}|NewPatientProject\\NewPatientProject.csproj|c:\\users\\wel\\git__test\\patient-visit-manger-solid\\newpatientproject\\services\\filemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{063266E4-B68A-4F43-A19B-0455F9088482}|NewPatientProject\\NewPatientProject.csproj|solutionrelative:newpatientproject\\services\\filemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{063266E4-B68A-4F43-A19B-0455F9088482}|NewPatientProject\\NewPatientProject.csproj|c:\\users\\wel\\git__test\\patient-visit-manger-solid\\newpatientproject\\services\\recordmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{063266E4-B68A-4F43-A19B-0455F9088482}|NewPatientProject\\NewPatientProject.csproj|solutionrelative:newpatientproject\\services\\recordmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{063266E4-B68A-4F43-A19B-0455F9088482}|NewPatientProject\\NewPatientProject.csproj|c:\\users\\wel\\git__test\\patient-visit-manger-solid\\newpatientproject\\models\\patient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{063266E4-B68A-4F43-A19B-0455F9088482}|NewPatientProject\\NewPatientProject.csproj|solutionrelative:newpatientproject\\models\\patient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{063266E4-B68A-4F43-A19B-0455F9088482}|NewPatientProject\\NewPatientProject.csproj|f:\\ml job folder\\newpatientproject\\newpatientproject\\models\\undoredoaction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{063266E4-B68A-4F43-A19B-0455F9088482}|NewPatientProject\\NewPatientProject.csproj|c:\\users\\wel\\git__test\\patient-visit-manger-solid\\newpatientproject\\models\\undoredoaction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{063266E4-B68A-4F43-A19B-0455F9088482}|NewPatientProject\\NewPatientProject.csproj|solutionrelative:newpatientproject\\models\\undoredoaction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{063266E4-B68A-4F43-A19B-0455F9088482}|NewPatientProject\\NewPatientProject.csproj|f:\\ml job folder\\newpatientproject\\newpatientproject\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{063266E4-B68A-4F43-A19B-0455F9088482}|NewPatientProject\\NewPatientProject.csproj|c:\\users\\wel\\git__test\\patient-visit-manger-solid\\newpatientproject\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{063266E4-B68A-4F43-A19B-0455F9088482}|NewPatientProject\\NewPatientProject.csproj|solutionrelative:newpatientproject\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{063266E4-B68A-4F43-A19B-0455F9088482}|NewPatientProject\\NewPatientProject.csproj|f:\\ml job folder\\newpatientproject\\newpatientproject\\services\\recordmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{063266E4-B68A-4F43-A19B-0455F9088482}|NewPatientProject\\NewPatientProject.csproj|solutionrelative:newpatientproject\\services\\recordmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{063266E4-B68A-4F43-A19B-0455F9088482}|NewPatientProject\\NewPatientProject.csproj|c:\\users\\wel\\git__test\\patient-visit-manger-solid\\newpatientproject\\services\\undoredomanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{063266E4-B68A-4F43-A19B-0455F9088482}|NewPatientProject\\NewPatientProject.csproj|solutionrelative:newpatientproject\\services\\undoredomanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{063266E4-B68A-4F43-A19B-0455F9088482}|NewPatientProject\\NewPatientProject.csproj|c:\\users\\wel\\git__test\\patient-visit-manger-solid\\newpatientproject\\services\\historymanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{063266E4-B68A-4F43-A19B-0455F9088482}|NewPatientProject\\NewPatientProject.csproj|solutionrelative:newpatientproject\\services\\historymanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -42,28 +42,28 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 6,
+          "SelectedChildIndex": 5,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 5,
               "Title": "Program.cs",
-              "DocumentMoniker": "F:\\ML job folder\\NewPatientProject\\NewPatientProject\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\wel\\git__test\\patient-visit-manger-solid\\NewPatientProject\\Program.cs",
               "RelativeDocumentMoniker": "NewPatientProject\\Program.cs",
-              "ToolTip": "F:\\ML job folder\\NewPatientProject\\NewPatientProject\\Program.cs",
+              "ToolTip": "C:\\Users\\wel\\git__test\\patient-visit-manger-solid\\NewPatientProject\\Program.cs",
               "RelativeToolTip": "NewPatientProject\\Program.cs",
-              "ViewState": "AgIAAEEAAAAAAAAAAAAuwD0AAAAsAAAAAAAAAA==",
+              "ViewState": "AgIAADAAAAAAAAAAAAAmwEkAAAApAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-08-02T06:10:34.571Z",
               "IsPinned": true
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 6,
               "Title": "UndoRedoManager.cs",
-              "DocumentMoniker": "F:\\ML job folder\\NewPatientProject\\NewPatientProject\\Services\\UndoRedoManager.cs",
+              "DocumentMoniker": "C:\\Users\\wel\\git__test\\patient-visit-manger-solid\\NewPatientProject\\Services\\UndoRedoManager.cs",
               "RelativeDocumentMoniker": "NewPatientProject\\Services\\UndoRedoManager.cs",
-              "ToolTip": "F:\\ML job folder\\NewPatientProject\\NewPatientProject\\Services\\UndoRedoManager.cs",
+              "ToolTip": "C:\\Users\\wel\\git__test\\patient-visit-manger-solid\\NewPatientProject\\Services\\UndoRedoManager.cs",
               "RelativeToolTip": "NewPatientProject\\Services\\UndoRedoManager.cs",
               "ViewState": "AgIAAA4AAAAAAAAAAAAQwBIAAAAIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -71,11 +71,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 7,
               "Title": "HistoryManager.cs",
-              "DocumentMoniker": "F:\\ML job folder\\NewPatientProject\\NewPatientProject\\Services\\HistoryManager.cs",
+              "DocumentMoniker": "C:\\Users\\wel\\git__test\\patient-visit-manger-solid\\NewPatientProject\\Services\\HistoryManager.cs",
               "RelativeDocumentMoniker": "NewPatientProject\\Services\\HistoryManager.cs",
-              "ToolTip": "F:\\ML job folder\\NewPatientProject\\NewPatientProject\\Services\\HistoryManager.cs",
+              "ToolTip": "C:\\Users\\wel\\git__test\\patient-visit-manger-solid\\NewPatientProject\\Services\\HistoryManager.cs",
               "RelativeToolTip": "NewPatientProject\\Services\\HistoryManager.cs",
               "ViewState": "AgIAAAMAAAAAAAAAAAAAAAYAAAALAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -83,11 +83,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 4,
               "Title": "UndoRedoAction.cs",
-              "DocumentMoniker": "F:\\ML job folder\\NewPatientProject\\NewPatientProject\\Models\\UndoRedoAction.cs",
+              "DocumentMoniker": "C:\\Users\\wel\\git__test\\patient-visit-manger-solid\\NewPatientProject\\Models\\UndoRedoAction.cs",
               "RelativeDocumentMoniker": "NewPatientProject\\Models\\UndoRedoAction.cs",
-              "ToolTip": "F:\\ML job folder\\NewPatientProject\\NewPatientProject\\Models\\UndoRedoAction.cs",
+              "ToolTip": "C:\\Users\\wel\\git__test\\patient-visit-manger-solid\\NewPatientProject\\Models\\UndoRedoAction.cs",
               "RelativeToolTip": "NewPatientProject\\Models\\UndoRedoAction.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAfAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -95,11 +95,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 3,
               "Title": "Patient.cs",
-              "DocumentMoniker": "F:\\ML job folder\\NewPatientProject\\NewPatientProject\\Models\\Patient.cs",
+              "DocumentMoniker": "C:\\Users\\wel\\git__test\\patient-visit-manger-solid\\NewPatientProject\\Models\\Patient.cs",
               "RelativeDocumentMoniker": "NewPatientProject\\Models\\Patient.cs",
-              "ToolTip": "F:\\ML job folder\\NewPatientProject\\NewPatientProject\\Models\\Patient.cs",
+              "ToolTip": "C:\\Users\\wel\\git__test\\patient-visit-manger-solid\\NewPatientProject\\Models\\Patient.cs",
               "RelativeToolTip": "NewPatientProject\\Models\\Patient.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAACDAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -107,38 +107,38 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "AppInterface.cs",
-              "DocumentMoniker": "F:\\ML job folder\\NewPatientProject\\NewPatientProject\\Interfaces\\AppInterface.cs",
-              "RelativeDocumentMoniker": "NewPatientProject\\Interfaces\\AppInterface.cs",
-              "ToolTip": "F:\\ML job folder\\NewPatientProject\\NewPatientProject\\Interfaces\\AppInterface.cs",
-              "RelativeToolTip": "NewPatientProject\\Interfaces\\AppInterface.cs",
-              "ViewState": "AgIAAJ8AAAAAAAAAAAAcwK4AAAA1AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-02T16:48:51.716Z"
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "FileManager.cs",
-              "DocumentMoniker": "F:\\ML job folder\\NewPatientProject\\NewPatientProject\\Services\\FileManager.cs",
-              "RelativeDocumentMoniker": "NewPatientProject\\Services\\FileManager.cs",
-              "ToolTip": "F:\\ML job folder\\NewPatientProject\\NewPatientProject\\Services\\FileManager.cs",
-              "RelativeToolTip": "NewPatientProject\\Services\\FileManager.cs",
-              "ViewState": "AgIAAAwAAAAAAAAAAAAAAEMAAABUAAAAAAAAAA==",
+              "Title": "AppInterface.cs",
+              "DocumentMoniker": "C:\\Users\\wel\\git__test\\patient-visit-manger-solid\\NewPatientProject\\Interfaces\\AppInterface.cs",
+              "RelativeDocumentMoniker": "NewPatientProject\\Interfaces\\AppInterface.cs",
+              "ToolTip": "C:\\Users\\wel\\git__test\\patient-visit-manger-solid\\NewPatientProject\\Interfaces\\AppInterface.cs",
+              "RelativeToolTip": "NewPatientProject\\Interfaces\\AppInterface.cs",
+              "ViewState": "AgIAACwAAAAAAAAAAAAowEgAAAAqAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-02T06:10:34.505Z",
+              "WhenOpened": "2025-08-02T16:48:51.716Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 1,
+              "Title": "FileManager.cs",
+              "DocumentMoniker": "C:\\Users\\wel\\git__test\\patient-visit-manger-solid\\NewPatientProject\\Services\\FileManager.cs",
+              "RelativeDocumentMoniker": "NewPatientProject\\Services\\FileManager.cs",
+              "ToolTip": "C:\\Users\\wel\\git__test\\patient-visit-manger-solid\\NewPatientProject\\Services\\FileManager.cs",
+              "RelativeToolTip": "NewPatientProject\\Services\\FileManager.cs",
+              "ViewState": "AgIAABwAAAAAAAAAAAA1wEMAAABUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-02T06:10:34.505Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "RecordManager.cs",
-              "DocumentMoniker": "F:\\ML job folder\\NewPatientProject\\NewPatientProject\\Services\\RecordManager.cs",
+              "DocumentMoniker": "C:\\Users\\wel\\git__test\\patient-visit-manger-solid\\NewPatientProject\\Services\\RecordManager.cs",
               "RelativeDocumentMoniker": "NewPatientProject\\Services\\RecordManager.cs",
-              "ToolTip": "F:\\ML job folder\\NewPatientProject\\NewPatientProject\\Services\\RecordManager.cs",
+              "ToolTip": "C:\\Users\\wel\\git__test\\patient-visit-manger-solid\\NewPatientProject\\Services\\RecordManager.cs",
               "RelativeToolTip": "NewPatientProject\\Services\\RecordManager.cs",
-              "ViewState": "AgIAAA8AAAAAAAAAAAAqwBkAAAAlAAAAAAAAAA==",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABAAAAA8AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-08-02T06:10:34.57Z"
             }

@@ -1,10 +1,1 @@
-Patient Name: Eve Davis    Visit Type: Consultation    Duration: 45    Visit Fee: 22500
-Patient Name: Tom Clark    Visit Type: Emergency    Duration: 60    Visit Fee: 60000
-Patient Name: Nina Patel    Visit Type: Follow-up    Duration: 45    Visit Fee: 13500
-Patient Name: David Wright    Visit Type: Follow-up    Duration: 30    Visit Fee: 9000
-Patient Name: Laura Hill    Visit Type: Emergency    Duration: 45    Visit Fee: 45000
-Patient Name: Steve Martin    Visit Type: Follow-up    Duration: 60    Visit Fee: 18000
-Patient Name: Sara King    Visit Type: Consultation    Duration: 45    Visit Fee: 22500
-Patient Name: George Hall    Visit Type: Consultation    Duration: 45    Visit Fee: 22500
-Patient Name: Maya Chen    Visit Type: Emergency    Duration: 60    Visit Fee: 60000
-Patient Name: Leo Scott    Visit Type: Consultation    Duration: 45    Visit Fee: 22500
+Patient Name: Olivia Moore    Visit Type: Consultation    Duration: 60    Visit Fee: 30000

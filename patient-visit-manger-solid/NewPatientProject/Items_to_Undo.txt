@@ -1,1 +1,1 @@
-Deleted the record of the patient: Olivia Moore Description: Lab results discussion VisitDate: 8/6/2025 VisitTime: 4:34 PM DoctorName: Dr. Smith Duration: 60 VisitType: Consultation
+Added the record of the patient: Harry Description: Happy Patient in the list VisitDate: 8/5/2020 VisitTime: 8:00 PM DoctorName: Dr Happy Duration: 20 VisitType: Emergency

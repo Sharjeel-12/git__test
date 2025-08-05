@@ -1,0 +1,14 @@
+F:\ML job folder\Assignment-03\Assignment-03\bin\Debug\net7.0\Assignment-03.exe
+F:\ML job folder\Assignment-03\Assignment-03\bin\Debug\net7.0\Assignment-03.deps.json
+F:\ML job folder\Assignment-03\Assignment-03\bin\Debug\net7.0\Assignment-03.runtimeconfig.json
+F:\ML job folder\Assignment-03\Assignment-03\bin\Debug\net7.0\Assignment-03.dll
+F:\ML job folder\Assignment-03\Assignment-03\bin\Debug\net7.0\Assignment-03.pdb
+F:\ML job folder\Assignment-03\Assignment-03\obj\Debug\net7.0\Assignment-03.GeneratedMSBuildEditorConfig.editorconfig
+F:\ML job folder\Assignment-03\Assignment-03\obj\Debug\net7.0\Assignment-03.AssemblyInfoInputs.cache
+F:\ML job folder\Assignment-03\Assignment-03\obj\Debug\net7.0\Assignment-03.AssemblyInfo.cs
+F:\ML job folder\Assignment-03\Assignment-03\obj\Debug\net7.0\Assignment-03.csproj.CoreCompileInputs.cache
+F:\ML job folder\Assignment-03\Assignment-03\obj\Debug\net7.0\Assignment-03.dll
+F:\ML job folder\Assignment-03\Assignment-03\obj\Debug\net7.0\refint\Assignment-03.dll
+F:\ML job folder\Assignment-03\Assignment-03\obj\Debug\net7.0\Assignment-03.pdb
+F:\ML job folder\Assignment-03\Assignment-03\obj\Debug\net7.0\Assignment-03.genruntimeconfig.cache
+F:\ML job folder\Assignment-03\Assignment-03\obj\Debug\net7.0\ref\Assignment-03.dll
