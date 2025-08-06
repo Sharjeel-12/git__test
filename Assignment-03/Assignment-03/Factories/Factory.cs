@@ -1,5 +1,4 @@
 ﻿using Assignment_03.Models;
-using Assignment_03.NewFolder;
 using System;
 using System.Collections.Generic;
 using System.Globalization;
@@ -7,7 +6,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Assignment_03.NewFolder
+namespace Assignment_03.Factories
 {
     public abstract class Product
     {
@@ -16,11 +15,11 @@ namespace Assignment_03.NewFolder
         {
             var product = createProduct();
             Console.WriteLine("The information of the poruct is as follows: -");
-            Console.WriteLine($"Prodcut Description: {product.getDescription()}");
-            Console.WriteLine($"Prodcut Type: {product.getType()}");
-            Console.WriteLine($"Prodcut Price: {product.getPrice()}");
-            Console.WriteLine($"Prodcut Quantity: {product.getQuantity()}");
-
+            Console.WriteLine($"Product Description: {product.getDescription()}");
+            Console.WriteLine($"Product Type: {product.getType()}");
+            Console.WriteLine($"Product Price: {product.getPrice()}");
+            Console.WriteLine($"Product Quantity: {product.getQuantity()}");
+            Console.WriteLine($"Product ID: {product.getID()}");
         }
         public abstract IProductFeatures createProduct();
     }
